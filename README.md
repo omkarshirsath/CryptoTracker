@@ -2,7 +2,7 @@
 
 Welcome to CryptoTracker – Your Comprehensive Cryptocurrency Information Tool!
 
-![CryptoTracker Logo](insert_your_logo_url_here)
+<img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/logodark.png" alt="CryptoTracker Logo" width="100" height="100">
 
 CryptoTracker is a powerful tool designed to provide you with real-time cryptocurrency information. Stay informed about cryptocurrency prices, charts, and trends. This tool categorizes coins into various categories such as stablecoins, metaverse, memecoins, and NFTs. Discover top-performing and trending cryptocurrencies to make informed decisions.
 
@@ -17,35 +17,46 @@ CryptoTracker is a powerful tool designed to provide you with real-time cryptocu
 - Categorization of coins (Stablecoins, Metaverse, Memecoins, NFTs)
 - Highlights top-performing and trending cryptos
 - User-friendly interface for easy navigation
+
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
 
-  <!-- First Row: Screenshots 1, 2, 3 -->
-  <div style="display: flex;">
-    <!-- Screenshot 1 -->
-    <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss1.png" alt="Screenshot 1" width="200" />
+  <!-- first Row: Screenshots 1, 2, 3-->
+<div style="display: flex; margin-right: 20px;">
+  <!-- Screenshot 1 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss1.png" alt="Screenshot 4" width="400" />
 
-    <!-- Screenshot 2 -->
-    <img src="insert_screenshot2_url_here" alt="Screenshot 2" width="200" />
 
-    <!-- Screenshot 3 -->
-    <img src="insert_screenshot3_url_here" alt="Screenshot 3" width="200" />
-  </div>
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss2.png" alt="Screenshot 2" width="400" />
 
-  <!-- Second Row: Screenshots 4, 5, 6 -->
-  <div style="display: flex;">
-    <!-- Screenshot 4 -->
-    <img src="insert_screenshot4_url_here" alt="Screenshot 4" width="200" />
 
-    <!-- Screenshot 5 -->
-    <img src="insert_screenshot5_url_here" alt="Screenshot 5" width="200" />
+  <!-- Screenshot 2 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss3.png" alt="Screenshot 3" width="400" />
 
-    <!-- Screenshot 6 -->
-    <img src="insert_screenshot6_url_here" alt="Screenshot 6" width="200" />
-  </div>
+  <!-- Screenshot 3 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/SS5.png" alt="Screenshot 5" width="400" />
+</div>
+
+
+<!-- Second Row: Screenshots 4, 5, 6 -->
+<div style="display: flex; margin-top: 20px;">
+  <!-- Screenshot 4 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss9.png" alt="Screenshot 9" width="400" />
+
+  <!-- Screenshot 5 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss6.png" alt="Screenshot 6" width="400" />
+   
+  
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss10.png" alt="Screenshot 10" width="400" />
+
+  <!-- Screenshot 6 -->
+  <img src="https://github.com/omkarshirsath/CryptoTracker/blob/main/ss13.png" alt="Screenshot 13" width="400" />
+</div>
+
 
 </div>
+
 ## Technologies and Concepts Used
 
 1. Vue 3 Composition API
@@ -69,3 +80,16 @@ CryptoTracker is a powerful tool designed to provide you with real-time cryptocu
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/CryptoTracker.git
+2. Navigate to the project directory:
+   ```bash
+   cd CryptoTracker
+3. Install Node.js dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm run serve
+5. Open your web browser and go to http://localhost:8080/.
+6. Explore real-time cryptocurrency information!
+   
+   Note: Make sure you have Node.js installed on your system.
